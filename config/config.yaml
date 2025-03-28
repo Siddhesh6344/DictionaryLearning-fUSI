@@ -9,6 +9,7 @@ data:
   normalize: True
 
 model:
+  name: Top-k sparse autoencoders
   dictionary_size: 100
   sparsity_level: 0.1
   learning_rate: 0.001
